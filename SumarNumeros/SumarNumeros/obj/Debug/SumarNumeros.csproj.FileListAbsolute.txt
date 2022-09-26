@@ -1,0 +1,11 @@
+C:\Users\julio\source\repos\Uadeo\Algoritmica\SumarNumeros\SumarNumeros\bin\Debug\SumarNumeros.exe.config
+C:\Users\julio\source\repos\Uadeo\Algoritmica\SumarNumeros\SumarNumeros\bin\Debug\SumarNumeros.exe
+C:\Users\julio\source\repos\Uadeo\Algoritmica\SumarNumeros\SumarNumeros\bin\Debug\SumarNumeros.pdb
+C:\Users\julio\source\repos\Uadeo\Algoritmica\SumarNumeros\SumarNumeros\obj\Debug\SumarNumeros.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\Uadeo\Algoritmica\SumarNumeros\SumarNumeros\obj\Debug\SumarNumeros.csproj.SuggestedBindingRedirects.cache
+C:\Users\julio\source\repos\Uadeo\Algoritmica\SumarNumeros\SumarNumeros\obj\Debug\SumarNumeros.Form1.resources
+C:\Users\julio\source\repos\Uadeo\Algoritmica\SumarNumeros\SumarNumeros\obj\Debug\SumarNumeros.Properties.Resources.resources
+C:\Users\julio\source\repos\Uadeo\Algoritmica\SumarNumeros\SumarNumeros\obj\Debug\SumarNumeros.csproj.GenerateResource.cache
+C:\Users\julio\source\repos\Uadeo\Algoritmica\SumarNumeros\SumarNumeros\obj\Debug\SumarNumeros.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\Uadeo\Algoritmica\SumarNumeros\SumarNumeros\obj\Debug\SumarNumeros.exe
+C:\Users\julio\source\repos\Uadeo\Algoritmica\SumarNumeros\SumarNumeros\obj\Debug\SumarNumeros.pdb

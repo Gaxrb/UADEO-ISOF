@@ -1,0 +1,11 @@
+C:\Users\julio\source\repos\Uadeo\Algoritmica\Act1.1\Act1.1\bin\Debug\Act1.1.exe.config
+C:\Users\julio\source\repos\Uadeo\Algoritmica\Act1.1\Act1.1\bin\Debug\Act1.1.exe
+C:\Users\julio\source\repos\Uadeo\Algoritmica\Act1.1\Act1.1\bin\Debug\Act1.1.pdb
+C:\Users\julio\source\repos\Uadeo\Algoritmica\Act1.1\Act1.1\obj\Debug\Act1.1.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\Uadeo\Algoritmica\Act1.1\Act1.1\obj\Debug\Act1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\julio\source\repos\Uadeo\Algoritmica\Act1.1\Act1.1\obj\Debug\Act1._1.Form1.resources
+C:\Users\julio\source\repos\Uadeo\Algoritmica\Act1.1\Act1.1\obj\Debug\Act1._1.Properties.Resources.resources
+C:\Users\julio\source\repos\Uadeo\Algoritmica\Act1.1\Act1.1\obj\Debug\Act1.1.csproj.GenerateResource.cache
+C:\Users\julio\source\repos\Uadeo\Algoritmica\Act1.1\Act1.1\obj\Debug\Act1.1.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\Uadeo\Algoritmica\Act1.1\Act1.1\obj\Debug\Act1.1.exe
+C:\Users\julio\source\repos\Uadeo\Algoritmica\Act1.1\Act1.1\obj\Debug\Act1.1.pdb
