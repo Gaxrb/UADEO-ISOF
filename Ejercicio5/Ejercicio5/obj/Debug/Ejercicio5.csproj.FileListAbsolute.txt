@@ -1,8 +1,0 @@
-C:\Users\julio\source\repos\Algoritmica\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe.config
-C:\Users\julio\source\repos\Algoritmica\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe
-C:\Users\julio\source\repos\Algoritmica\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.pdb
-C:\Users\julio\source\repos\Algoritmica\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.AssemblyReference.cache
-C:\Users\julio\source\repos\Algoritmica\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.SuggestedBindingRedirects.cache
-C:\Users\julio\source\repos\Algoritmica\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
-C:\Users\julio\source\repos\Algoritmica\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.exe
-C:\Users\julio\source\repos\Algoritmica\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.pdb
