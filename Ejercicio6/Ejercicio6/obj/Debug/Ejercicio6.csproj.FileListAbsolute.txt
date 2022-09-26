@@ -1,0 +1,8 @@
+C:\Users\julio\source\repos\Algoritmica\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.exe.config
+C:\Users\julio\source\repos\Algoritmica\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.exe
+C:\Users\julio\source\repos\Algoritmica\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.pdb
+C:\Users\julio\source\repos\Algoritmica\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\Algoritmica\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.csproj.SuggestedBindingRedirects.cache
+C:\Users\julio\source\repos\Algoritmica\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\Algoritmica\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.exe
+C:\Users\julio\source\repos\Algoritmica\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.pdb

@@ -1,0 +1,8 @@
+C:\Users\julio\source\repos\Algoritmica\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe.config
+C:\Users\julio\source\repos\Algoritmica\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe
+C:\Users\julio\source\repos\Algoritmica\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.pdb
+C:\Users\julio\source\repos\Algoritmica\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\Algoritmica\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csproj.SuggestedBindingRedirects.cache
+C:\Users\julio\source\repos\Algoritmica\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\Algoritmica\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.exe
+C:\Users\julio\source\repos\Algoritmica\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.pdb
